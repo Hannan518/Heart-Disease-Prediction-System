@@ -20,7 +20,7 @@ Predicts the presence of heart disease from **4 input attributes** (`cp`, `thala
 
 ## Live Demo
 
-**(deployment link inserted at the top of the notebook)**
+**[Heart Disease Predictor — Live App](https://heart-disease-prediction-system-jjn5zrq3v7phttrhkgjlqv.streamlit.app/)**
 
 ## Run the Notebook Locally
 
