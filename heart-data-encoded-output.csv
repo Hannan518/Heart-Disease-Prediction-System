@@ -1,0 +1,304 @@
+cp,thalach,exang,oldpeak,Disease
+Typical Angina,150.0,No,2.3,0
+Asymptomatic,108.0,Yes,1.5,1
+Asymptomatic,129.0,Yes,2.6,1
+Non-Anginal Pain,187.0,No,3.5,0
+Atypical Angina,172.0,No,1.4,0
+Atypical Angina,178.0,No,0.8,0
+Asymptomatic,160.0,No,3.6,1
+Asymptomatic,163.0,Yes,0.6,0
+Asymptomatic,147.0,No,1.4,1
+Asymptomatic,155.0,Yes,3.1,1
+Asymptomatic,148.0,No,0.4,0
+Atypical Angina,153.0,No,1.3,0
+Non-Anginal Pain,142.0,Yes,0.6,1
+Atypical Angina,173.0,No,0.0,0
+Non-Anginal Pain,162.0,No,0.5,0
+Non-Anginal Pain,174.0,No,1.6,0
+Atypical Angina,168.0,No,1.0,1
+Asymptomatic,160.0,No,1.2,0
+Non-Anginal Pain,139.0,No,0.2,0
+Atypical Angina,171.0,No,0.6,0
+Typical Angina,144.0,Yes,1.8,0
+Typical Angina,162.0,No,1.0,0
+Atypical Angina,160.0,No,1.8,1
+Non-Anginal Pain,173.0,No,3.2,1
+Asymptomatic,132.0,Yes,2.4,1
+Non-Anginal Pain,158.0,No,1.6,0
+Non-Anginal Pain,172.0,No,0.0,0
+Typical Angina,114.0,No,2.6,0
+Asymptomatic,171.0,No,1.5,0
+Asymptomatic,114.0,Yes,2.0,1
+Typical Angina,151.0,No,1.8,0
+Asymptomatic,160.0,Yes,1.4,1
+Non-Anginal Pain,158.0,No,0.0,1
+Asymptomatic,161.0,No,0.5,0
+Non-Anginal Pain,179.0,Yes,0.4,0
+Asymptomatic,178.0,No,0.0,0
+Asymptomatic,120.0,Yes,2.5,1
+Asymptomatic,112.0,Yes,0.6,1
+Asymptomatic,132.0,Yes,1.2,1
+Non-Anginal Pain,137.0,Yes,1.0,0
+Asymptomatic,114.0,No,1.0,1
+Typical Angina,178.0,Yes,1.4,0
+Atypical Angina,162.0,No,0.4,0
+Non-Anginal Pain,157.0,No,1.6,0
+Asymptomatic,169.0,No,0.0,1
+Non-Anginal Pain,165.0,No,2.5,1
+Non-Anginal Pain,123.0,No,0.6,0
+Asymptomatic,128.0,No,2.6,1
+Non-Anginal Pain,157.0,No,0.8,0
+Non-Anginal Pain,152.0,No,1.2,0
+Atypical Angina,168.0,No,0.0,0
+Asymptomatic,140.0,No,0.4,0
+Asymptomatic,153.0,No,0.0,1
+Atypical Angina,188.0,No,0.0,0
+Asymptomatic,144.0,Yes,1.4,1
+Asymptomatic,109.0,Yes,2.2,1
+Non-Anginal Pain,163.0,No,0.6,1
+Asymptomatic,158.0,No,0.0,1
+Non-Anginal Pain,152.0,No,0.5,0
+Typical Angina,125.0,Yes,1.4,0
+Asymptomatic,142.0,Yes,1.2,1
+Non-Anginal Pain,160.0,Yes,1.4,0
+Asymptomatic,131.0,Yes,2.2,1
+Non-Anginal Pain,170.0,No,0.0,0
+Asymptomatic,113.0,No,1.4,1
+Asymptomatic,142.0,Yes,2.8,1
+Non-Anginal Pain,155.0,No,3.0,1
+Non-Anginal Pain,165.0,No,1.6,0
+Asymptomatic,140.0,Yes,3.4,1
+Non-Anginal Pain,147.0,No,3.6,1
+Non-Anginal Pain,148.0,No,0.8,0
+Asymptomatic,163.0,No,0.2,1
+Asymptomatic,99.0,Yes,1.8,1
+Asymptomatic,158.0,No,0.6,1
+Asymptomatic,177.0,No,0.0,1
+Non-Anginal Pain,151.0,No,0.8,0
+Asymptomatic,141.0,Yes,2.8,1
+Non-Anginal Pain,142.0,No,1.5,0
+Atypical Angina,180.0,No,0.2,0
+Asymptomatic,111.0,Yes,0.8,1
+Asymptomatic,148.0,Yes,3.0,0
+Asymptomatic,143.0,No,0.4,0
+Non-Anginal Pain,182.0,No,0.0,0
+Non-Anginal Pain,150.0,Yes,1.6,1
+Atypical Angina,172.0,No,0.2,0
+Non-Anginal Pain,180.0,No,0.0,0
+Non-Anginal Pain,156.0,No,0.0,0
+Non-Anginal Pain,115.0,No,0.0,0
+Asymptomatic,160.0,No,0.0,0
+Non-Anginal Pain,149.0,No,0.5,0
+Asymptomatic,151.0,No,0.4,0
+Asymptomatic,145.0,No,6.2,1
+Non-Anginal Pain,146.0,No,1.8,0
+Non-Anginal Pain,175.0,No,0.6,0
+Non-Anginal Pain,172.0,No,0.0,0
+Asymptomatic,161.0,Yes,0.0,1
+Asymptomatic,142.0,Yes,1.2,1
+Asymptomatic,157.0,No,2.6,1
+Atypical Angina,158.0,No,0.8,0
+Asymptomatic,186.0,No,0.0,0
+Asymptomatic,185.0,No,0.0,0
+Typical Angina,174.0,No,0.0,0
+Asymptomatic,159.0,No,0.0,0
+Non-Anginal Pain,130.0,No,0.0,0
+Non-Anginal Pain,139.0,No,2.0,1
+Atypical Angina,156.0,No,0.0,0
+Asymptomatic,162.0,Yes,0.0,1
+Non-Anginal Pain,150.0,No,0.4,1
+Asymptomatic,140.0,Yes,3.6,1
+Asymptomatic,140.0,No,1.2,1
+Asymptomatic,146.0,Yes,1.0,1
+Asymptomatic,144.0,Yes,1.2,1
+Typical Angina,190.0,No,0.0,0
+Asymptomatic,136.0,Yes,3.0,1
+Non-Anginal Pain,97.0,No,1.2,1
+Atypical Angina,132.0,No,0.0,0
+Non-Anginal Pain,165.0,No,0.0,0
+Asymptomatic,182.0,No,1.4,0
+Asymptomatic,132.0,Yes,1.8,1
+Asymptomatic,127.0,No,2.8,1
+Asymptomatic,150.0,Yes,0.0,1
+Asymptomatic,154.0,No,4.0,1
+Non-Anginal Pain,143.0,Yes,1.2,0
+Asymptomatic,111.0,Yes,5.6,1
+Typical Angina,174.0,No,1.4,1
+Atypical Angina,175.0,No,0.6,0
+Asymptomatic,133.0,Yes,4.0,1
+Asymptomatic,126.0,Yes,2.8,1
+Atypical Angina,170.0,No,0.0,0
+Asymptomatic,163.0,No,0.0,0
+Non-Anginal Pain,147.0,No,0.4,0
+Non-Anginal Pain,154.0,Yes,0.0,0
+Atypical Angina,202.0,No,0.0,0
+Asymptomatic,186.0,Yes,0.0,0
+Non-Anginal Pain,165.0,No,0.2,0
+Atypical Angina,161.0,No,1.4,0
+Asymptomatic,125.0,Yes,2.6,1
+Atypical Angina,103.0,No,1.4,1
+Asymptomatic,130.0,Yes,1.6,1
+Non-Anginal Pain,166.0,No,2.4,0
+Atypical Angina,164.0,Yes,0.0,0
+Typical Angina,159.0,No,0.2,1
+Atypical Angina,184.0,No,0.0,0
+Non-Anginal Pain,131.0,Yes,1.8,1
+Non-Anginal Pain,154.0,Yes,0.6,0
+Non-Anginal Pain,152.0,No,0.0,1
+Asymptomatic,124.0,No,1.0,1
+Non-Anginal Pain,179.0,No,0.0,0
+Atypical Angina,170.0,No,0.0,0
+Non-Anginal Pain,160.0,No,0.0,0
+Typical Angina,178.0,No,1.2,0
+Asymptomatic,122.0,No,0.6,0
+Non-Anginal Pain,160.0,No,1.6,0
+Asymptomatic,145.0,Yes,0.8,1
+Asymptomatic,96.0,Yes,2.2,1
+Asymptomatic,109.0,No,2.4,1
+Asymptomatic,173.0,Yes,1.6,1
+Asymptomatic,171.0,No,0.0,1
+Asymptomatic,170.0,No,1.2,1
+Non-Anginal Pain,151.0,No,1.0,0
+Atypical Angina,156.0,No,0.0,0
+Asymptomatic,162.0,Yes,0.0,1
+Non-Anginal Pain,158.0,No,1.6,0
+Asymptomatic,122.0,No,1.0,0
+Non-Anginal Pain,175.0,No,0.0,0
+Asymptomatic,168.0,Yes,0.0,0
+Non-Anginal Pain,169.0,No,0.0,0
+Atypical Angina,159.0,Yes,0.0,0
+Asymptomatic,156.0,Yes,0.0,1
+Atypical Angina,138.0,No,0.0,0
+Non-Anginal Pain,112.0,Yes,2.9,1
+Asymptomatic,111.0,Yes,0.0,0
+Asymptomatic,143.0,Yes,0.0,1
+Asymptomatic,157.0,No,1.2,0
+Asymptomatic,132.0,No,2.0,1
+Asymptomatic,88.0,Yes,1.2,1
+Asymptomatic,147.0,No,0.1,0
+Asymptomatic,105.0,Yes,2.1,1
+Non-Anginal Pain,162.0,No,1.9,0
+Non-Anginal Pain,173.0,No,0.0,0
+Asymptomatic,166.0,No,0.5,1
+Asymptomatic,150.0,Yes,1.9,1
+Typical Angina,178.0,No,0.8,0
+Typical Angina,145.0,No,4.2,0
+Asymptomatic,161.0,No,0.0,1
+Atypical Angina,179.0,No,0.0,0
+Non-Anginal Pain,194.0,No,0.8,0
+Atypical Angina,120.0,Yes,0.0,1
+Atypical Angina,195.0,No,0.0,1
+Non-Anginal Pain,146.0,No,2.0,1
+Non-Anginal Pain,163.0,No,0.0,0
+Asymptomatic,122.0,Yes,4.2,1
+Asymptomatic,143.0,Yes,0.1,1
+Asymptomatic,106.0,No,1.9,1
+Non-Anginal Pain,115.0,No,1.5,0
+Asymptomatic,125.0,Yes,0.9,1
+Typical Angina,131.0,No,0.1,0
+Asymptomatic,152.0,Yes,0.2,0
+Atypical Angina,162.0,No,1.1,0
+Typical Angina,125.0,No,0.0,1
+Asymptomatic,159.0,No,0.0,0
+Asymptomatic,154.0,Yes,0.0,0
+Non-Anginal Pain,173.0,No,0.2,0
+Non-Anginal Pain,133.0,No,0.2,0
+Asymptomatic,161.0,No,0.0,0
+Asymptomatic,147.0,Yes,0.0,1
+Asymptomatic,130.0,Yes,3.0,1
+Asymptomatic,126.0,Yes,0.9,1
+Atypical Angina,155.0,No,0.0,0
+Asymptomatic,154.0,Yes,1.4,1
+Non-Anginal Pain,170.0,No,0.0,0
+Typical Angina,182.0,Yes,3.8,1
+Non-Anginal Pain,168.0,No,2.0,0
+Asymptomatic,165.0,Yes,1.0,1
+Asymptomatic,160.0,No,0.0,1
+Typical Angina,162.0,No,1.9,0
+Atypical Angina,172.0,No,0.0,0
+Asymptomatic,152.0,Yes,0.0,0
+Asymptomatic,122.0,No,2.0,0
+Asymptomatic,182.0,No,0.0,0
+Non-Anginal Pain,172.0,Yes,0.0,0
+Non-Anginal Pain,167.0,No,0.0,0
+Non-Anginal Pain,179.0,No,0.0,0
+Asymptomatic,95.0,Yes,2.0,1
+Asymptomatic,169.0,Yes,1.8,1
+Atypical Angina,192.0,No,0.7,0
+Asymptomatic,143.0,No,0.1,0
+Non-Anginal Pain,172.0,No,0.0,0
+Asymptomatic,108.0,Yes,0.0,1
+Asymptomatic,132.0,Yes,0.1,1
+Non-Anginal Pain,169.0,No,0.1,0
+Asymptomatic,117.0,Yes,3.4,1
+Non-Anginal Pain,126.0,No,0.8,1
+Atypical Angina,121.0,Yes,0.2,0
+Non-Anginal Pain,163.0,No,0.0,0
+Asymptomatic,116.0,Yes,3.2,1
+Asymptomatic,103.0,Yes,1.6,1
+Asymptomatic,144.0,No,0.8,1
+Atypical Angina,162.0,No,0.0,0
+Atypical Angina,162.0,No,0.0,0
+Atypical Angina,153.0,No,0.0,0
+Atypical Angina,163.0,No,0.0,0
+Asymptomatic,163.0,No,0.0,0
+Typical Angina,145.0,No,2.6,1
+Non-Anginal Pain,96.0,No,0.0,0
+Asymptomatic,71.0,No,1.0,1
+Asymptomatic,156.0,No,0.1,1
+Asymptomatic,118.0,Yes,1.0,1
+Asymptomatic,168.0,No,1.0,1
+Atypical Angina,140.0,No,0.0,0
+Asymptomatic,126.0,Yes,1.5,0
+Asymptomatic,105.0,No,2.0,1
+Asymptomatic,105.0,Yes,0.2,0
+Non-Anginal Pain,157.0,No,0.6,0
+Asymptomatic,181.0,No,1.2,0
+Non-Anginal Pain,173.0,No,0.0,0
+Asymptomatic,142.0,No,0.3,0
+Non-Anginal Pain,116.0,No,1.1,0
+Atypical Angina,143.0,No,0.0,0
+Atypical Angina,141.0,No,0.3,1
+Non-Anginal Pain,149.0,No,0.3,0
+Atypical Angina,152.0,No,0.0,1
+Typical Angina,171.0,No,0.9,0
+Non-Anginal Pain,169.0,No,0.0,0
+Asymptomatic,125.0,Yes,3.6,1
+Asymptomatic,125.0,Yes,1.8,1
+Asymptomatic,156.0,Yes,1.0,1
+Non-Anginal Pain,134.0,No,2.2,1
+Asymptomatic,181.0,No,0.0,1
+Non-Anginal Pain,150.0,No,0.0,0
+Asymptomatic,138.0,Yes,1.9,1
+Asymptomatic,138.0,No,2.3,0
+Asymptomatic,120.0,Yes,1.8,1
+Asymptomatic,125.0,No,1.6,0
+Typical Angina,162.0,No,0.8,1
+Typical Angina,155.0,No,0.6,0
+Non-Anginal Pain,152.0,No,0.0,0
+Non-Anginal Pain,152.0,No,0.0,0
+Atypical Angina,164.0,No,0.0,1
+Asymptomatic,131.0,No,0.6,0
+Asymptomatic,143.0,Yes,3.0,1
+Non-Anginal Pain,179.0,No,0.0,0
+Asymptomatic,130.0,Yes,2.0,1
+Atypical Angina,174.0,No,0.0,0
+Asymptomatic,161.0,No,0.0,1
+Asymptomatic,140.0,No,4.4,1
+Asymptomatic,146.0,Yes,2.8,1
+Atypical Angina,144.0,No,0.4,0
+Atypical Angina,163.0,No,0.0,0
+Atypical Angina,169.0,No,0.0,0
+Non-Anginal Pain,150.0,No,0.8,1
+Atypical Angina,166.0,No,1.2,0
+Asymptomatic,144.0,Yes,2.8,1
+Asymptomatic,144.0,Yes,4.0,1
+Asymptomatic,136.0,Yes,0.0,1
+Atypical Angina,182.0,No,0.0,0
+Asymptomatic,90.0,No,1.0,1
+Asymptomatic,123.0,Yes,0.2,1
+Typical Angina,132.0,No,1.2,1
+Asymptomatic,141.0,No,3.4,1
+Asymptomatic,115.0,Yes,1.2,1
+Atypical Angina,174.0,No,0.0,1
+Non-Anginal Pain,173.0,No,0.0,0
